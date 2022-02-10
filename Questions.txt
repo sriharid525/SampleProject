@@ -1,0 +1,26 @@
+input recording (simulation) -> selena ( build with project rnm/1r1vhonda all/75 runnables) 
+
+
+
+in selena build time from which reference scom.xml and scom.cpp is generating  
+
+
+run runtime con 
+
+
+ 
+
+  
+//missing signal
+A2L signal mapping  (100) ---> MDF( 100) -->   scom(90)  runtime xml(90)   = missing signals 10
+
+
+A2L signal mapping  (90) ---> MDF( 90) -->   scom(90)  runtime xml(90)   = No missing 
+
+
+A2L signal mapping  (90) ---> MDF( 90) -->   scom(90)  runtime xml(90)   = can have missing signal (incorrect signal structure)
+
+
+A2L signal mapping  (90) ---> MDF( 90) -->   scom(110)  runtime xml(110)   = ?
+
+
